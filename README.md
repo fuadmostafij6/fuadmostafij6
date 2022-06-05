@@ -1,8 +1,8 @@
 ### Hi there 👋, I am Md Mostafijur Rahman
-#### I am Full Stack Developer
+#### I am a Flutter Developer
 ![I am Full Stack Developer](https://github.com/fuadmostafij6/fuadmostafij6/blob/main/flutter.jpeg)
 
-A passionate Full-stack developer from Bangladesh
+A passionate Flatter developer from Bangladesh
 
 Skills: Flutter / Dart /React/ JS / HTML / CSS
 
