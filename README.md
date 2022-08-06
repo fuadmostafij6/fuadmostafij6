@@ -2,7 +2,7 @@
 #### I am a Flutter Developer
 ![I am Full Stack Developer](https://github.com/fuadmostafij6/fuadmostafij6/blob/main/flutter.jpeg)
 
-A passionate Flatter developer from Bangladesh
+A passionate Flutter developer from Bangladesh
 
 Skills: Flutter / Dart /React/ JS / HTML / CSS
 
