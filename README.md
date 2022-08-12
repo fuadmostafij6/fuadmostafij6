@@ -7,7 +7,7 @@ A passionate Flutter developer from Bangladesh
 Skills: Flutter / Dart /React/ JS / HTML / CSS
 
 - 🔭 I’m currently working on Flutter 
-- 📫 How to reach me: https://www.facebook.com/fuad.mostafij.6/ 
+- 📫 How to reach me: https://fuadmostafij6.github.io/dev/#/
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/fuadmostafij6)  [<img color="red" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/md-mostafijur-rahman-a56109202/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/fuad.mostafij.6/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/fuad_mostafij6/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/fuad-mostafij)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://demoresume.netlify.app/)  
